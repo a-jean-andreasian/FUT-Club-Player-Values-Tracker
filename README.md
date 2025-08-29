@@ -1,4 +1,12 @@
-# FUT Club Player Values Tracker
+<div style="text-align: center;">
+  <img src="media/logos/logo_full.png" alt="sleep" width="450">
+</div>
+
+
+---
+## What is this?
+
+#### It's an online tool that lets you explore and analyze FIFA/FC Ultimate Team (FUT) club player market values.
 
 
 The app focuses on:
