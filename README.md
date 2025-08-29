@@ -1,7 +1,8 @@
 <div style="text-align: center;">
-  <img src="media/logos/logo_full.png" alt="sleep" width="450">
+  <a href="https://fut-club-player-values-tracker.streamlit.app/" target="_blank">
+    <img src="media/logos/logo_full.png" alt="sleep" width="450">
+  </a>
 </div>
-
 
 ---
 ## What is this?
